@@ -1,0 +1,1 @@
+just perm inspect code
